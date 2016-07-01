@@ -24,4 +24,9 @@ h1 {
 	background: #FFF;
 	height: 30px;
 	text-align: center;
+	color: black;
+}
+
+.selected {
+	background: blue;
 }
