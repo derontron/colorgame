@@ -12,9 +12,16 @@ h1 {
 	padding-bottom: 30%;
 	float: left;
 	margin: 1.66%;
+	border-radius: 30px;
 }
 
 #container {
 	max-width: 600px;
 	margin: 0 auto;
+}
+
+#stripe {
+	background: #FFF;
+	height: 30px;
+	text-align: center;
 }
